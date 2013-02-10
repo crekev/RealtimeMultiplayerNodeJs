@@ -5,6 +5,8 @@ __RealtimeMultiplayerNodeJS is a framework specifically for building HTML5 multi
 2. In the terminal type "node js/DemoHelloWorld/server.js"
 3. Browse to "/DemoHelloWorld.html"
 
+[!http://onedayitwillmake.com/blog/2011/08/creating-realtime-multiplayer-games-using-node-js/] Blog Post
+
 [![DemoBox2D](http://farm6.static.flickr.com/5105/5694643562_fffce8b9cf_z.jpg)](http://farm6.static.flickr.com/5105/5694643562_53e54993dd_o.png)
          
 # RealtimeMultiplayerNodeJS comes with 3 demos
